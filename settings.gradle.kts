@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Texttomo-Android"
 include(":app")
+include(":texttomos")
