@@ -15,7 +15,7 @@ To use this library in your Android project, add the following dependency to you
 
 ```gradle
 dependencies {
-    implementation 'id.dfroxs.textoemosi:xxx'
+    implementation 'id.dfroxs.texttomos:xxx'
 }
 ```
 
@@ -29,7 +29,7 @@ Once the dependency is added, you can immediately use the library to perform sen
 
 ```kotlin
 // Import the library
-import id.dfroxs.textoemosi
+import id.dfroxs.texttomos
 ```
 **Note**: This version is still in development, so some features may change in future updates.
 
